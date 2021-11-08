@@ -3,14 +3,19 @@ Terraform Google Kubernetes Elastic Infrustructure with Airflow Helm Chart
 
 # Pre-Requirements
 
-## Install the tools first:
+## First follow those instructions:
+
+* terraform
+
+[Link to the installation of terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli)
+
 * gcloud
 
-[Link to the installation of gcloud tools](https://cloud.google.com/sdk/docs/install)
+[Link to the installation of gcloud SDK](https://cloud.google.com/sdk/docs/install)
 
 * kubectl
 
-[Link to the installation of kubectl tools](https://kubernetes.io/docs/tasks/tools/)
+[Link to the installation of kubectl CLI](https://kubernetes.io/docs/tasks/tools/)
 
 ## When all the tools above are installed, clone this project to your local machine and run those commands in your shell:
 
