@@ -7,7 +7,7 @@ Terraform Google Kubernetes Elastic Infrustructure with Airflow Helm Chart
 
 * terraform
 
-[Link to the terraform CLI installation](https://learn.hashicorp.com/tutorials/terraform/install-cli)
+[Link to the Terraform CLI installation](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
 * gcloud
 
