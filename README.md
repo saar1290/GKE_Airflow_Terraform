@@ -12,10 +12,6 @@ Terraform Google Kubernetes Elastic Infrustructure with Airflow Helm Chart
 
 [Link to the installation of kubectl tools](https://kubernetes.io/docs/tasks/tools/)
 
-* helm 
-
-[Link to the installation of helm tools](https://helm.sh/docs/intro/install/)
-
 ## When all the tools above are installed, clone this project to your local machine and run those commands in your shell:
 
 ### Change dir to the project dir

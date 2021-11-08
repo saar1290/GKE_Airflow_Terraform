@@ -1,4 +1,4 @@
-# Infrastructure vars
+# Infrastructure variables
 
 variable "project_id" {
   default     = "CHANGE_ME"
@@ -15,7 +15,7 @@ variable cluster_name {
   description = "The Cluster name"
 }
 
-# Application vars
+# Application variables
 
 variable "app_name" {
   default     = "airflow"
