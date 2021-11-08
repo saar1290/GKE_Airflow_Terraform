@@ -3,7 +3,7 @@ Terraform Google Kubernetes Elastic Infrustructure with Airflow Helm Chart
 
 # Pre-Requirements
 
-## Install those tools first:
+## Install the tools first:
 * gcloud
 
 [Link to the installation of gcloud tools](https://cloud.google.com/sdk/docs/install)
@@ -20,6 +20,10 @@ Terraform Google Kubernetes Elastic Infrustructure with Airflow Helm Chart
 
 ### Change dir to the project dir
 * cd GKE_Terraform_Aireflow
+
+***NOTE***
+
+Change the project name in variables.tf to your GCP project
 
 ### Initialize the terraform and install the providers
 * terraform init

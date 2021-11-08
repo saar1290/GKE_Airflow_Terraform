@@ -1,7 +1,7 @@
 # Infrastructure vars
 
 variable "project_id" {
-  default     = "molten-infusion-331118"
+  default     = "CHANGE_ME"
   description = "The name for the GKE project"
 }
 
@@ -13,10 +13,6 @@ variable "region" {
 variable cluster_name {
   default     = "gke-edu-test"
   description = "The Cluster name"
-}
-
-variable "machine_type" {
-  default = "n1-standard-2"
 }
 
 # Application vars
