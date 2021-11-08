@@ -26,7 +26,7 @@ Terraform Google Kubernetes Elastic Infrustructure with Airflow Helm Chart
 
 Change the project name in variables.tf to your GCP project
 
-# Login to GCP via gcluod SDK
+# Login to GCP via gcloud SDK
 
 * gcloud auth application-default login
 
