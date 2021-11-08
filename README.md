@@ -1,5 +1,5 @@
 # GKE_Airflow_Terraform
-Terraform Google Kubernetes Elastic Infrustructure with Airflow Helm Chart
+Terraform Google Kubernetes Elastic Infrastructure with Airflow Helm Chart
 
 # Pre-Requirements
 
