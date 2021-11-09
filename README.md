@@ -20,7 +20,7 @@ Terraform Google Kubernetes Elastic Infrastructure with Airflow Helm Chart
 ## When all the tools above are installed, clone this project to your local machine and run those commands in your shell:
 
 ### Change dir to the project dir
-* cd GKE_Terraform_Aireflow
+* cd GKE_Airflow_Terraform
 
 ***NOTE***
 
